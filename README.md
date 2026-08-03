@@ -63,7 +63,7 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-**Sambit**
+**Sambit Kumar Patra**
 
 GitHub: https://github.com/sambit3558u
 
